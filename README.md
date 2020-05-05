@@ -9,7 +9,7 @@ This is a combination of work from Nima Jalali and Doug Friedman combining the b
 
 Installation
 ============
-	go get github.com/nimajalali/go-force/force
+	go get github.com/renney/go-force/force
 
 Example
 ============
@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nimajalali/go-force/force"
-	"github.com/nimajalali/go-force/sobjects"
+	"github.com/renney/go-force/force"
+	"github.com/renney/go-force/sobjects"
 )
 
 type SomeCustomSObject struct {
