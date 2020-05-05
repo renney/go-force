@@ -4,6 +4,7 @@ go-force
 [![wercker status](https://app.wercker.com/status/66ea433103de60e20ce0f96340a75828/m "wercker status")](https://app.wercker.com/project/bykey/66ea433103de60e20ce0f96340a75828)
 
 [Golang](http://golang.org/) API wrapper for [Force.com](http://www.force.com/), [Salesforce.com](http://www.salesforce.com/)
+
 This is the combination of work from Nima Jalali and Doug Friedman combinng the base SF API with streaming API.
 
 Installation
